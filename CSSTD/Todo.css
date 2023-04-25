@@ -1,0 +1,15 @@
+body{
+    background-image: url(../15.jpg);
+    background-repeat: no-repeat;
+}
+.container{
+  width: 560px;
+  height: 390px;
+    
+}
+#to_do_list{
+  width: 560px;
+  height: 390px;
+    
+}
+
